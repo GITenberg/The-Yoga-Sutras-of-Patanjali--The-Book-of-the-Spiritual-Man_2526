@@ -1,5 +1,8 @@
 _repo: The-Yoga-Sutras-of-Patanjali--The-Book-of-the-Spiritual-Man_2526
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Patañjali
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '4214'
     url: http://www.gutenberg.org/2009/agents/4214
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2526#The-Yoga-Sutras-of-Patanjali--The-Book-of-the-Spiritual-Man
 gutenberg_bookshelf: Hinduism
 gutenberg_issued: '2001-02-01'
 gutenberg_type: Text
